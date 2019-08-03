@@ -1,5 +1,4 @@
-# An-easy-version-of-calculator
-Written in C++
+# An easy version of calculator written in C++
 
 Still got many flaws like:
 - Cannot deal with decimal inputs like 0.5
